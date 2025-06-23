@@ -17,3 +17,8 @@ Projekt na zajęcia z generatywnej sztucznej inteligencji
 
 * `!bot <wiadomość>` - napisz wiadomość do bota
 * `!clear` - wyczyść chat
+
+## Skąd wziąć dane?
+1. Zaloguj się na https://twitchtokengenerator.com/
+2. Wpisz ACCESS TOKEN w kodzie (oauth: zostaw!)
+3. Wpisz swój nick na twitchu
